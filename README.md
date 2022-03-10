@@ -1,4 +1,4 @@
-[![Social banner for brianpainter](https://raw.githubusercontent.com/brianpainter/brianpainter/main/github-header-image.png)](https://mrpaulishaili.vercel.app))](https://brianpainter.com)
+[![Social banner for brianpainter](https://raw.githubusercontent.com/brianpainter/brianpainter/main/github-header-image.png)](https://brianpainter.com)
 
 ### Hi there 👋
 
